@@ -1,6 +1,6 @@
 # Day 1: Historian Hysteria
 
-file_path = 'E:\\LEETCODE\\Advent_Of_Code\\1input.txt'
+file_path = 'input.txt'
 
 
 with open(file_path, 'r') as file:
